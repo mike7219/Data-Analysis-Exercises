@@ -1,2 +1,2 @@
 # Data-Analysis-Exercises
-Anaylze Titanic survivor data
+Completed analysis exercises from Data Camp
